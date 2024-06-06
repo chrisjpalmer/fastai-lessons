@@ -1,2 +1,2 @@
-fastai=2.7.15=pypi_0
+fastai=2.7.15
 
