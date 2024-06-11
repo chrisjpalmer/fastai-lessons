@@ -1,0 +1,4 @@
+sentencepiece
+pandas
+datasets
+transformers[torch]
